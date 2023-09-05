@@ -1,0 +1,8 @@
+1692546284096	geckodriver	INFO	Listening on 127.0.0.1:55913
+/snap/firefox/current/firefox.launcher: 60: exec: /snap/pycharm-community/342/usr/lib/firefox/firefox: not found
+1692546284614	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "39511" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8vPwZs"
+/snap/firefox/current/firefox.launcher: 60: exec: /snap/pycharm-community/342/usr/lib/firefox/firefox: not found
+1692547002577	geckodriver	INFO	Listening on 127.0.0.1:34663
+/snap/firefox/current/firefox.launcher: 60: exec: /snap/pycharm-community/342/usr/lib/firefox/firefox: not found
+1692547003085	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "50071" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuLJLut"
+/snap/firefox/current/firefox.launcher: 60: exec: /snap/pycharm-community/342/usr/lib/firefox/firefox: not found
